@@ -21,7 +21,9 @@
 //console.log(html);
 
 // Template 13 - ARRAYS
-let ninjas = ['shaun', 'ryu', 'chun-li'];
+
+//let ninjas = ['shaun', 'ryu', 'chun-li'];
+
 //console.log(ninjas[1];);
 //ninjas[1] = 'ken'
 //console.log(ninjas[1]);
@@ -44,4 +46,13 @@ let ninjas = ['shaun', 'ryu', 'chun-li'];
 
 //let result = ninjas.push('ken'); 
 //result = ninjas.pop();
-//console.log(ninjas);   /*PUSH: acrescenta item na lista; POP: retira item da lista */
+//console.log(ninjas);   /*PUSH: acrescenta item na lista; POP: retira ULTIMO item da lista 
+//console.log(result); /* exibe o intem popped (deleteado). O log 'ninjas' exibe o conteudo (3 'colunas')
+
+//UNDEFINED 
+//let age;
+//console.log(age, age + 3, 'The age is ${age}');
+
+//NULL 
+//let age = null;
+//console.log(age, age + 3, 'The age is ${age}');
